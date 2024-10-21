@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![edm drawing ex_1 2 Drawing v0_page-0001](https://github.com/user-attachments/assets/6ca14514-3ed3-44af-bdbe-af4ad787f3b8)
+
  
  
  ## RESULT
